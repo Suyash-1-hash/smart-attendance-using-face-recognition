@@ -19,7 +19,7 @@ It detects faces using a webcam and automatically marks attendance in a CSV file
 - NumPy
 
 ## Project Structure
-
+'''
 face-recognition-attendance-system
 │
 ├── images_attendance
@@ -30,7 +30,7 @@ face-recognition-attendance-system
 ├── attendance.py
 ├── requirements.txt
 └── README.md
-
+'''
 
 ## How It Works
 
